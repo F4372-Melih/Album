@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//F4372-Melih.github.io/Album/static/css/main.4c5a5c66.css",
+    "main.js": "/https//F4372-Melih.github.io/Album/static/js/main.ed8a2adb.js",
+    "index.html": "/https//F4372-Melih.github.io/Album/index.html",
+    "main.4c5a5c66.css.map": "/https//F4372-Melih.github.io/Album/static/css/main.4c5a5c66.css.map",
+    "main.ed8a2adb.js.map": "/https//F4372-Melih.github.io/Album/static/js/main.ed8a2adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5a5c66.css",
+    "static/js/main.ed8a2adb.js"
+  ]
+}
